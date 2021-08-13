@@ -1,0 +1,1 @@
+# responsive-newsletter-signUP-page
